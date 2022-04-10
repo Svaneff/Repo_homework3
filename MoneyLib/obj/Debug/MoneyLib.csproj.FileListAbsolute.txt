@@ -1,0 +1,6 @@
+Z:\IT Step\3 семестр\Командний проект\Projects\2022-04-07_HomeWork_Git\Repo_homework3\MoneyLib\bin\Debug\MoneyLib.dll
+Z:\IT Step\3 семестр\Командний проект\Projects\2022-04-07_HomeWork_Git\Repo_homework3\MoneyLib\bin\Debug\MoneyLib.pdb
+Z:\IT Step\3 семестр\Командний проект\Projects\2022-04-07_HomeWork_Git\Repo_homework3\MoneyLib\obj\Debug\MoneyLib.csproj.AssemblyReference.cache
+Z:\IT Step\3 семестр\Командний проект\Projects\2022-04-07_HomeWork_Git\Repo_homework3\MoneyLib\obj\Debug\MoneyLib.csproj.CoreCompileInputs.cache
+Z:\IT Step\3 семестр\Командний проект\Projects\2022-04-07_HomeWork_Git\Repo_homework3\MoneyLib\obj\Debug\MoneyLib.dll
+Z:\IT Step\3 семестр\Командний проект\Projects\2022-04-07_HomeWork_Git\Repo_homework3\MoneyLib\obj\Debug\MoneyLib.pdb

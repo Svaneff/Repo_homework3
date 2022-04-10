@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework3_Purse", "Homework
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessCardLib", "BusinessCardLib\BusinessCardLib.csproj", "{D498E9D4-D953-4F12-8C08-39E8FFFD7B75}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoneyLib", "MoneyLib\MoneyLib.csproj", "{84251DC5-6E78-4B9B-8B89-172C2FD282E4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{D498E9D4-D953-4F12-8C08-39E8FFFD7B75}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D498E9D4-D953-4F12-8C08-39E8FFFD7B75}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D498E9D4-D953-4F12-8C08-39E8FFFD7B75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84251DC5-6E78-4B9B-8B89-172C2FD282E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84251DC5-6E78-4B9B-8B89-172C2FD282E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84251DC5-6E78-4B9B-8B89-172C2FD282E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84251DC5-6E78-4B9B-8B89-172C2FD282E4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
