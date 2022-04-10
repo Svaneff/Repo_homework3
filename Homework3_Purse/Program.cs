@@ -1,4 +1,5 @@
-﻿using System;
+﻿using BusinessCardLib;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,6 +11,15 @@ namespace Homework3_Purse
     {
         static void Main(string[] args)
         {
+            //Ruslan
+            //----------------------------------------
+            BusinessCard BC = new BusinessCard();
+            BC.ShowBalance();
+            BC.WithdrewMoney(200000);
+            BC.ShowBalance();
+            BC.PutMoney(50000);
+            BC.ShowBalance();
+            //----------------------------------------
         }
     }
 }

@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\GIThome3\Homework3_Purse\BusinessCardLib\bin\Debug\BusinessCardLib.dll
+C:\Users\User\Desktop\GIThome3\Homework3_Purse\BusinessCardLib\bin\Debug\BusinessCardLib.pdb
+C:\Users\User\Desktop\GIThome3\Homework3_Purse\BusinessCardLib\obj\Debug\BusinessCardLib.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\GIThome3\Homework3_Purse\BusinessCardLib\obj\Debug\BusinessCardLib.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\GIThome3\Homework3_Purse\BusinessCardLib\obj\Debug\BusinessCardLib.dll
+C:\Users\User\Desktop\GIThome3\Homework3_Purse\BusinessCardLib\obj\Debug\BusinessCardLib.pdb

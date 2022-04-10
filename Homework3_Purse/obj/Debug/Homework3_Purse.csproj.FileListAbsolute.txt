@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\GIThome3\Homework3_Purse\Homework3_Purse\bin\Debug\Homework3_Purse.exe.config
+C:\Users\User\Desktop\GIThome3\Homework3_Purse\Homework3_Purse\bin\Debug\Homework3_Purse.exe
+C:\Users\User\Desktop\GIThome3\Homework3_Purse\Homework3_Purse\bin\Debug\Homework3_Purse.pdb
+C:\Users\User\Desktop\GIThome3\Homework3_Purse\Homework3_Purse\bin\Debug\BusinessCardLib.dll
+C:\Users\User\Desktop\GIThome3\Homework3_Purse\Homework3_Purse\obj\Debug\Homework3_Purse.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\GIThome3\Homework3_Purse\Homework3_Purse\obj\Debug\Homework3_Purse.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\GIThome3\Homework3_Purse\Homework3_Purse\obj\Debug\Homework3_Purse.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\GIThome3\Homework3_Purse\Homework3_Purse\obj\Debug\Homework3_Purse.csproj.CopyComplete
+C:\Users\User\Desktop\GIThome3\Homework3_Purse\Homework3_Purse\obj\Debug\Homework3_Purse.exe
+C:\Users\User\Desktop\GIThome3\Homework3_Purse\Homework3_Purse\obj\Debug\Homework3_Purse.pdb

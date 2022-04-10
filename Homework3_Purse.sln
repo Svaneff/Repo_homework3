@@ -5,6 +5,8 @@ VisualStudioVersion = 17.1.32328.378
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework3_Purse", "Homework3_Purse\Homework3_Purse.csproj", "{02477F17-9E15-4724-BDBD-F063638FFCD0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessCardLib", "BusinessCardLib\BusinessCardLib.csproj", "{D498E9D4-D953-4F12-8C08-39E8FFFD7B75}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{02477F17-9E15-4724-BDBD-F063638FFCD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{02477F17-9E15-4724-BDBD-F063638FFCD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{02477F17-9E15-4724-BDBD-F063638FFCD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D498E9D4-D953-4F12-8C08-39E8FFFD7B75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D498E9D4-D953-4F12-8C08-39E8FFFD7B75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D498E9D4-D953-4F12-8C08-39E8FFFD7B75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D498E9D4-D953-4F12-8C08-39E8FFFD7B75}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
