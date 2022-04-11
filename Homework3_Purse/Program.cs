@@ -1,4 +1,5 @@
 ﻿using BusinessCardLib;
+using CrediCartLib;
 using MoneyLib;
 using System;
 using System.Collections.Generic;
@@ -31,6 +32,18 @@ namespace Homework3_Purse
             money.WithdrawMoney(300);
             Console.WriteLine(money.Balance);
             //-------------------------------------------
+
+            //Natalia//
+            //--------------------------------------------
+            CrediCart crediCart = new CrediCart();
+            crediCart.Name = "Ivan";
+            crediCart.Surname = "Ivaniv";
+            crediCart.CardNumber = "1234 5678 8901 2345";
+            DateTime dt2 = new DateTime(2024, 12, 31);
+            DateTime dt1 = new DateTime(2022, 01, 11);
+            crediCart.CartTimeStart = dt1;
+            crediCart.CartTimeEnd = dt2;
+            //--------------------------------------------
         }
     }
 }
