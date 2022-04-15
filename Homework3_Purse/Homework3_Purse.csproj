@@ -55,5 +55,11 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CrediCartLib\CrediCartLib.csproj">
+      <Project>{d3b87958-fe11-45a5-8cd7-855b5ca620ff}</Project>
+      <Name>CrediCartLib</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

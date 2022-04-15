@@ -6,7 +6,13 @@ using System.Threading.Tasks;
 
 namespace CrediCartLib
 {
-    public class Class1
+    public class CrediCart
     {
+        public string Name { get; set; }
+        public string Surname { get; set; }
+        public string CardNumber { get; set; }
+        public DateTime CartTimeStart { get; set; }
+        public DateTime CartTimeEnd { get; set; }
+
     }
 }
